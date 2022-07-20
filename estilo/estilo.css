@@ -1,0 +1,172 @@
+.marcador {
+
+	border:  0px solid;
+  background-color: rgba(0,0,0,0.3);
+  text-align: center;
+  padding-top:20px;
+  padding-bottom: 20px;
+  width: 30%;
+  border-radius: 15px !important;
+  margin-bottom: 100px;
+}
+
+.marcador2 {
+  background: #fe9d9d;
+  border:  0px solid;
+  background-color: rgba(0,0,0,0.3);
+  text-align: center;
+  padding: 30px;
+  margin-bottom: 10px;
+  width: 25%;
+}
+
+.marcador3 {
+
+  border:  0px solid;
+  background-color: rgba(0,0,0,0.3);
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+  height: 250px;
+  border-radius: 15px !important;
+  margin-bottom: 20px;
+}
+
+.border-radius1 {
+    border-radius: 50px 0px 0px 50px;
+}
+
+.border-radius2 {
+    border-radius: 0px 50px 50px 0px;
+}
+
+.border-radius3 {
+    border-radius: 20px 20px 20px 20px;
+}
+
+<!-- The Boston -->
+
+      @font-face {
+        font-family: "Futura";
+        src: url(fontes/fontestt0141m_.ttf);
+      }
+      
+      @font-face {
+        font-family: "The Boston";
+        src: url(fontes/The Boston.otf);
+      }
+
+      h1 {
+        font-family: The Boston !important;
+      }
+
+      p {
+        font-family: Futura !important;
+      }
+
+<!-- The Boston -->
+
+.texto-placa-home {
+	position: absolute;
+	background-color: rgba(0,0,0,0.2);
+	color:#fff;
+	text-align: center;
+	top: 360px;
+	width: auto;
+	font-size: 5px;
+	margin-left: 700px;
+
+}
+
+.color-nav {
+  background-color: #303841;
+  border-radius: 12px;
+  padding: 10px;
+
+}
+
+.teste {
+	background-color: #22262A;
+}
+ @media (min-width: 768px) {
+.bd-placeholder-img-lg {
+ font-size: 3.5rem;
+  }
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.border {
+	border-radius: 12px;
+} 
+
+.position {
+  margin-top: 11%;
+  margin-bottom: 2%;
+}
+
+.position-text {
+  width: 300px;
+}
+
+.texto-menu {
+  color: white !important;
+}
+
+.ajuste {
+  padding-left: 10px;
+}
+
+ .bg-secondary {
+  opacity: 0.6;    
+}
+
+.tamanho-foto-home {
+  width: 100px;
+}
+
+.logo-padding {
+  padding: 30px;
+}
+
+#container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center !important;
+        gap: 20px;
+        padding-bottom: 0px;
+        margin-bottom: 10px;
+      }
+
+#container2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+        padding-bottom: 20px;
+        margin-bottom: 230px;
+      }
+
+
+
+.arr {
+  padding-bottom: 20px !important;
+}
+
+.texto-lista {
+  text-align: left;
+}
